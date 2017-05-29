@@ -57,7 +57,7 @@ int main(int argc, char *argv[])
         }
     }
 
-    dropbox = new QDropbox("uexixljtgdwsts0", "iadrsd9385w2jcd");
+    dropbox = new QDropbox("app_key", "app_secret");
     QObject::connect(dropbox, &QDropbox::authComplete, authComplete);
     QObject::connect(dropbox, &QDropbox::loadAllInfo, loadAllInfo);
     dropbox->auth();
