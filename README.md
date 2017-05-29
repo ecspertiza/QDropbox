@@ -1,6 +1,6 @@
-#QDropbox
+# QDropbox
 
-##How to use
+## How to use
 
 	clone from git 
 	git clone https://github.com/ecspertiza/QDropbox.git
