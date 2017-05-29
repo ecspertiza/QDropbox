@@ -2,7 +2,8 @@
 
 ## How to use
 
-	clone from git 
+clone from git 
+
 	git clone https://github.com/ecspertiza/QDropbox.git
 
 copy dropbox path in your project
