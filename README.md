@@ -22,4 +22,4 @@ now, your is auth, if your need upload file, please use
 	QDropboxFile *file = new QDropboxFile(dropbox->dropboxAuth());
 	file->upload(fileToUpload, true); // if is true, get share link, if false, no
 
-
+please see main.cpp, this exaple shows how are your can use this lib for get user info, and get share link to upload file.
